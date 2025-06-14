@@ -1,0 +1,16 @@
+P21453	CHEMBL4333	Sphingosine 1-phosphate receptor Edg-1	SINGLE PROTEIN
+P51686	CHEMBL5815	C-C chemokine receptor type 9	SINGLE PROTEIN
+P41146	CHEMBL2014	Nociceptin receptor	SINGLE PROTEIN
+P43115	CHEMBL3710	Prostanoid EP3 receptor	SINGLE PROTEIN
+P00519	CHEMBL1862	Tyrosine-protein kinase ABL	SINGLE PROTEIN
+Q9Y5S2	CHEMBL5052	Serine/threonine-protein kinase MRCK beta	SINGLE PROTEIN
+O96013	CHEMBL4482	Serine/threonine-protein kinase PAK 4	SINGLE PROTEIN
+P36544	CHEMBL2492	Neuronal acetylcholine receptor protein alpha-7 subunit	SINGLE PROTEIN
+P56817	CHEMBL4822	Beta-secretase 1	SINGLE PROTEIN
+P03951	CHEMBL2820	Coagulation factor XI	SINGLE PROTEIN
+Q72874	CHEMBL243	Human immunodeficiency virus type 1 protease	SINGLE PROTEIN
+O43570	CHEMBL3242	Carbonic anhydrase XII	SINGLE PROTEIN
+P10275	CHEMBL1871	Androgen Receptor	SINGLE PROTEIN
+Q60492	CHEMBL4153	Sigma-1 receptor	SINGLE PROTEIN
+Q01959	CHEMBL238	Dopamine transporter	SINGLE PROTEIN
+P20292	CHEMBL4550	5-lipoxygenase activating protein	SINGLE PROTEIN
