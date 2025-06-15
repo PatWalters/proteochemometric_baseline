@@ -1,0 +1,17 @@
+SMILES,ID,r_exp_dg
+O=C(Nc1ccnc(NC(=O)[C@H]2C[C@H]2F)c1)c1c(Cl)cccc1Cl,jmc_23,-11.7
+O=C(Nc1ccnc(NC(=O)C2CCC2)c1)c1c(Cl)cccc1Cl,ejm_47,-9.7
+O=C(Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1)c1ccccc1,ejm_49,-7.75
+CC(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_31,-9.54
+O=C(CC1CC1)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_45,-9.56
+CC(C)(C)C(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_44,-7.42
+CC(C)C(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_43,-8.26
+O=C(CO)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_50,-8.98
+CCC(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_42,-9.78
+COC(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_55,-9.21
+O=C(Nc1ccnc(NC(=O)C2CCCC2)c1)c1c(Cl)cccc1Cl,ejm_48,-9
+CCNC(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,ejm_54,-10.53
+C[C@@H]1C[C@@H]1C(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,jmc_28,-10.98
+O=C(Nc1ccnc(NC(=O)[C@H]2C[C@H]2Cl)c1)c1c(Cl)cccc1Cl,jmc_27,-11.28
+N#C[C@@H]1C[C@@H]1C(=O)Nc1cc(NC(=O)c2c(Cl)cccc2Cl)ccn1,jmc_30,-10.94
+O=C(Nc1ccnc(NC(=O)C2CC2)c1)c1c(Cl)cccc1Cl,ejm_46,-11.31

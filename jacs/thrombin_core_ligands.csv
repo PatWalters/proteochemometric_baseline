@@ -1,0 +1,12 @@
+SMILES,ID,r_exp_dg
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cc(Cl)ccc1Cl,6a,-9.18
+Cc1cccc(CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH3+])Cc2ccccc2)c1,3a,-8.32
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cccc(I)c1,1d,-8.25
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cc(Cl)ccc1F,6e,-8.91
+Cc1ccc(Cl)cc1CNC(=O)[C@@H]1CCCN1C(=O)[C@H]([NH3+])Cc1ccccc1,6b,-8.89
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cccc(Cl)c1,1b,-8.46
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cccc(F)c1,1a,-7.48
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1ccccc1,5,-7.58
+CCc1cccc(CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH3+])Cc2ccccc2)c1,3b,-7.86
+Cc1ccc(C)c(CNC(=O)[C@@H]2CCCN2C(=O)[C@H]([NH3+])Cc2ccccc2)c1,7a,-8.22
+[NH3+][C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)NCc1cccc(Br)c1,1c,-8.56

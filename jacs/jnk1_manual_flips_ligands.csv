@@ -1,0 +1,39 @@
+SMILES,ID,r_exp_dg
+CCOc1nc(NC(=O)Cc2cc(OC)c(NC(C)=O)cc2OC)cc(N)c1C#N,18637-1 flip,-10.14
+CCOc1nc(NC(=O)Cc2cc(OC)c(Br)cc2OC)cc(N)c1C#N,17124-1 flip,-9.68
+CCOc1nc(NC(=O)Cc2cc(Br)ccc2Br)cc(N)c1C#N,18636-1 flip,-7.51
+COc1cc(S(C)(=O)=O)c(OC)cc1CC(=O)Nc1cc(N)c(C#N)c(OC(C)C)n1,18652-1 flip,-10.68
+COCCOc1nc(NC(=O)Cc2cc(OC)ccc2OC)cc(N)c1C#N,18659-1 flip,-9.47
+CCOc1nc(NC(=O)Cc2ccccc2C)cc(N)c1C#N,18628-1,-8.7
+CCOc1nc(NC(=O)Cc2cccc(OC)c2)cc(N)c1C#N,18632-1 flip,-9.08
+CCOc1nc(NC(=O)Cc2cc(OC)ccc2OC)cc(N)c1C#N,18634-1 flip,-9.99
+CCOc1nc(NC(=O)Cc2cc(C)ccc2C)cc(N)c1C#N,18635-1 flip,-7.29
+CCOc1nc(NC(=O)Cc2cccc(Cl)c2)cc(N)c1C#N,18626-1 flip,-8.87
+CCOc1nc(NC(=O)Cc2cc(OC)c([N+](=O)[O-])cc2OC)cc(N)c1C#N,18639-1 flip,-9.74
+CCOc1nc(NC(=O)Cc2ccccc2OC)cc(N)c1C#N,18631-1 flip,-9.41
+CCOc1nc(NC(=O)Cc2ccccc2Cl)cc(N)c1C#N,18625-1 flip,-8.11
+CCOc1nc(NC(=O)Cc2cc(OC)c(S(C)(=O)=O)cc2OC)cc(N)c1C#N,18638-1 flip,-10.09
+CCOc1nc(NC(=O)Cc2cccc(C)c2)cc(N)c1C#N,18629-1 flip,-8.67
+COc1ccc(OC)c(CC(=O)Nc2cc(N)c(C#N)c(OCCO)n2)c1,18658-1 flip,-9.7
+COc1ccc(OC)c(CC(=O)Nc2cc(N)c(C#N)c(OCCS(C)(=O)=O)n2)c1,18660-1 flip,-8.7
+CCOc1nc(NC(=O)Cc2cccc(Cl)c2)cc(N)c1C#N,18626-1,-8.87
+CCOc1nc(NC(=O)Cc2ccccc2C)cc(N)c1C#N,18628-1_flip,-8.7
+CCOc1nc(NC(=O)Cc2cccc(C)c2)cc(N)c1C#N,18629-1,-8.67
+CCOc1nc(NC(=O)Cc2cc(Br)ccc2Br)cc(N)c1C#N,18636-1,-7.51
+CCOc1nc(NC(=O)Cc2cc(OC)c(Br)cc2OC)cc(N)c1C#N,17124-1,-9.68
+CCOc1nc(NC(=O)Cc2ccc(Cl)cc2)cc(N)c1C#N,18627-1,-8.48
+CCOc1nc(NC(=O)Cc2cc(OC)c(S(C)(=O)=O)cc2OC)cc(N)c1C#N,18638-1,-10.09
+COCCOc1nc(NC(=O)Cc2cc(OC)ccc2OC)cc(N)c1C#N,18659-1,-9.47
+CCOc1nc(NC(=O)Cc2cc(OC)c([N+](=O)[O-])cc2OC)cc(N)c1C#N,18639-1,-9.74
+CCOc1nc(NC(=O)Cc2cc(OC)ccc2OC)cc(N)c1C#N,18634-1,-9.99
+CCOc1nc(NC(=O)Cc2ccc(C)cc2)cc(N)c1C#N,18630-1,-9.14
+CCOc1nc(NC(=O)Cc2cc(OC)c(NC(C)=O)cc2OC)cc(N)c1C#N,18637-1,-10.14
+COc1ccc(OC)c(CC(=O)Nc2cc(N)c(C#N)c(OCCO)n2)c1,18658-1,-9.7
+CCOc1nc(NC(=O)Cc2cccc(OC)c2)cc(N)c1C#N,18632-1,-9.08
+CCOc1nc(NC(=O)Cc2ccc(OC)cc2)cc(N)c1C#N,18633-1,-9.17
+CCOc1nc(NC(=O)Cc2cc(C)ccc2C)cc(N)c1C#N,18635-1,-7.29
+CCOc1nc(NC(=O)Cc2ccccc2OC)cc(N)c1C#N,18631-1,-9.41
+COc1ccc(OC)c(CC(=O)Nc2cc(N)c(C#N)c(OCCS(C)(=O)=O)n2)c1,18660-1,-8.7
+CCOc1nc(NC(=O)Cc2ccccc2Cl)cc(N)c1C#N,18625-1,-8.11
+CCOc1nc(NC(=O)Cc2ccccc2)cc(N)c1C#N,18624-1,-8.49
+COc1cc(S(C)(=O)=O)c(OC)cc1CC(=O)Nc1cc(N)c(C#N)c(OC(C)C)n1,18652-1,-10.68
